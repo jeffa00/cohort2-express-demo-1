@@ -1,0 +1,19 @@
+{
+  "name": "cohort2-express-demo-1",
+  "version": "1.0.0",
+  "description": "Another demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffa00/cohort2-express-demo-1.git"
+  },
+  "author": "jeffa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeffa00/cohort2-express-demo-1/issues"
+  },
+  "homepage": "https://github.com/jeffa00/cohort2-express-demo-1#readme"
+}
